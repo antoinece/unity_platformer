@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 9bb37db50907f444ab573d73df0a826b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 249691657582705353
+    second: NES - Metal Storm - M-308 Gunner s_0
+  - first:
+      213: -2736538502968115486
+    second: NES - Metal Storm - M-308 Gunner s_1
+  - first:
+      213: 4459699345272520471
+    second: NES - Metal Storm - M-308 Gunner s_2
+  - first:
+      213: 4006991299094153430
+    second: NES - Metal Storm - M-308 Gunner s_3
+  - first:
+      213: 3145652535868238274
+    second: NES - Metal Storm - M-308 Gunner s_4
+  - first:
+      213: 4004260285171393506
+    second: NES - Metal Storm - M-308 Gunner s_5
+  - first:
+      213: -1257072122278491458
+    second: NES - Metal Storm - M-308 Gunner s_6
+  - first:
+      213: -8924685838336400485
+    second: NES - Metal Storm - M-308 Gunner s_7
+  - first:
+      213: 4849588424787615270
+    second: NES - Metal Storm - M-308 Gunner s_8
+  - first:
+      213: -7683281922311882715
+    second: NES - Metal Storm - M-308 Gunner s_9
+  - first:
+      213: 4517987479700463
+    second: NES - Metal Storm - M-308 Gunner s_10
+  - first:
+      213: -4960039938160743066
+    second: NES - Metal Storm - M-308 Gunner s_11
+  - first:
+      213: -4478858839615904620
+    second: NES - Metal Storm - M-308 Gunner s_12
+  - first:
+      213: 1141442751893529757
+    second: NES - Metal Storm - M-308 Gunner s_13
+  - first:
+      213: -4911948473441913490
+    second: NES - Metal Storm - M-308 Gunner s_14
+  - first:
+      213: -2130299070761757334
+    second: NES - Metal Storm - M-308 Gunner s_15
+  - first:
+      213: 9151201517724879842
+    second: NES - Metal Storm - M-308 Gunner s_16
+  - first:
+      213: 1892099185784596926
+    second: NES - Metal Storm - M-308 Gunner s_17
+  - first:
+      213: 3971972592920716215
+    second: NES - Metal Storm - M-308 Gunner s_18
+  - first:
+      213: 3264566779069870635
+    second: NES - Metal Storm - M-308 Gunner s_19
+  - first:
+      213: -6421222074181397710
+    second: NES - Metal Storm - M-308 Gunner s_20
+  - first:
+      213: 8445946957026986082
+    second: NES - Metal Storm - M-308 Gunner s_21
+  - first:
+      213: -4967450837773646990
+    second: NES - Metal Storm - M-308 Gunner s_22
+  - first:
+      213: -6817032725231239855
+    second: NES - Metal Storm - M-308 Gunner s_23
+  - first:
+      213: -6151508167339489960
+    second: NES - Metal Storm - M-308 Gunner s_24
+  - first:
+      213: 2994463387411970448
+    second: NES - Metal Storm - M-308 Gunner s_25
+  - first:
+      213: -7339971234972316863
+    second: NES - Metal Storm - M-308 Gunner s_26
+  - first:
+      213: 2666093924195291681
+    second: NES - Metal Storm - M-308 Gunner s_27
+  - first:
+      213: 2418261129329297197
+    second: NES - Metal Storm - M-308 Gunner s_28
+  - first:
+      213: -8844211156144484315
+    second: NES - Metal Storm - M-308 Gunner s_29
+  - first:
+      213: -8707633092512961586
+    second: NES - Metal Storm - M-308 Gunner s_30
+  - first:
+      213: -3631136191323343354
+    second: NES - Metal Storm - M-308 Gunner s_31
+  - first:
+      213: -2959409992578259927
+    second: NES - Metal Storm - M-308 Gunner s_32
+  - first:
+      213: -4794667281401050583
+    second: NES - Metal Storm - M-308 Gunner s_33
+  - first:
+      213: 6120757822255299548
+    second: NES - Metal Storm - M-308 Gunner s_34
+  - first:
+      213: -6133672942123709656
+    second: NES - Metal Storm - M-308 Gunner s_35
+  - first:
+      213: -5442366504159076391
+    second: NES - Metal Storm - M-308 Gunner s_36
+  - first:
+      213: 6799194090774421762
+    second: NES - Metal Storm - M-308 Gunner s_37
+  - first:
+      213: 5134159597321547657
+    second: NES - Metal Storm - M-308 Gunner s_38
+  - first:
+      213: 3328683490571646873
+    second: NES - Metal Storm - M-308 Gunner s_39
+  - first:
+      213: -4861062764935992387
+    second: NES - Metal Storm - M-308 Gunner s_40
+  - first:
+      213: -2319107236897538114
+    second: NES - Metal Storm - M-308 Gunner s_41
+  - first:
+      213: -366370204287260649
+    second: NES - Metal Storm - M-308 Gunner s_42
+  - first:
+      213: 3804380640088764940
+    second: NES - Metal Storm - M-308 Gunner s_43
+  - first:
+      213: -647600958090220100
+    second: NES - Metal Storm - M-308 Gunner s_44
+  - first:
+      213: 1494755040665367786
+    second: NES - Metal Storm - M-308 Gunner s_45
+  - first:
+      213: -5381245902086401867
+    second: NES - Metal Storm - M-308 Gunner s_46
+  - first:
+      213: -8846602024467583544
+    second: NES - Metal Storm - M-308 Gunner s_47
+  - first:
+      213: -2359777359693928478
+    second: NES - Metal Storm - M-308 Gunner s_48
+  - first:
+      213: 6733416482603699875
+    second: NES - Metal Storm - M-308 Gunner s_49
+  - first:
+      213: -760334843259287929
+    second: NES - Metal Storm - M-308 Gunner s_50
+  - first:
+      213: -7766526863812459944
+    second: NES - Metal Storm - M-308 Gunner s_51
+  - first:
+      213: 4214839144548685000
+    second: NES - Metal Storm - M-308 Gunner s_52
+  - first:
+      213: 3962596587830557383
+    second: NES - Metal Storm - M-308 Gunner s_53
+  - first:
+      213: -8777375534682752958
+    second: NES - Metal Storm - M-308 Gunner s_54
+  - first:
+      213: 375041876124993825
+    second: NES - Metal Storm - M-308 Gunner s_55
+  - first:
+      213: 177277776806151922
+    second: NES - Metal Storm - M-308 Gunner s_56
+  - first:
+      213: -788389250526199931
+    second: NES - Metal Storm - M-308 Gunner s_57
+  - first:
+      213: -3101705922109304844
+    second: NES - Metal Storm - M-308 Gunner s_58
+  - first:
+      213: -8238741585557668345
+    second: NES - Metal Storm - M-308 Gunner s_59
+  - first:
+      213: 140142577327870125
+    second: NES - Metal Storm - M-308 Gunner s_60
+  - first:
+      213: 8407148398898700682
+    second: NES - Metal Storm - M-308 Gunner s_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca78995d35177300800000000000000
+      internalID: 249691657582705353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 256
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef768fabcd50ad0800000000000000
+      internalID: -2736538502968115486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 256
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb2001de804ed30800000000000000
+      internalID: 4459699345272520471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d886984b51bb9730800000000000000
+      internalID: 4006991299094153430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ab33a05a97ab20800000000000000
+      internalID: 3145652535868238274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e368dd838df19730800000000000000
+      internalID: 4004260285171393506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4b86a09bfd8ee0800000000000000
+      internalID: -1257072122278491458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 220
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93eff9d385252480800000000000000
+      internalID: -8924685838336400485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 220
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62edf466af23d4340800000000000000
+      internalID: 4849588424787615270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 220
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5287b67accf7f5590800000000000000
+      internalID: -7683281922311882715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 220
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c3dee51d001000800000000000000
+      internalID: 4517987479700463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 220
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dad26a4f56a2bb0800000000000000
+      internalID: -4960039938160743066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49463998d95e7d1c0800000000000000
+      internalID: -4478858839615904620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ee0e922837df00800000000000000
+      internalID: 1141442751893529757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 184
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f87553e045dbb0800000000000000
+      internalID: -4911948473441913490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 184
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6596ed2848af62e0800000000000000
+      internalID: -2130299070761757334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 184
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc1049b499ffe70800000000000000
+      internalID: 9151201517724879842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 184
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92f784f26124a10800000000000000
+      internalID: 1892099185784596926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 184
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b360a267084f1730800000000000000
+      internalID: 3971972592920716215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 184
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22300c60321e4d20800000000000000
+      internalID: 3264566779069870635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 184
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233558c6b8c33e6a0800000000000000
+      internalID: -6421222074181397710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26882654208063570800000000000000
+      internalID: 8445946957026986082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 148
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273094f18c1101bb0800000000000000
+      internalID: -4967450837773646990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df066cad80561a0800000000000000
+      internalID: -6817032725231239855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 148
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c0d4f9e371aaa0800000000000000
+      internalID: -6151508167339489960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 148
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997a93e5987e8920800000000000000
+      internalID: 2994463387411970448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc3e5fc0f232a90800000000000000
+      internalID: -7339971234972316863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 148
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122dc796c4edff420800000000000000
+      internalID: 2666093924195291681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 148
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27cec34fa36f8120800000000000000
+      internalID: 2418261129329297197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201677efcc034580800000000000000
+      internalID: -8844211156144484315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 111
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb245e56d5482780800000000000000
+      internalID: -8707633092512961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6067b116fdc9b9dc0800000000000000
+      internalID: -3631136191323343354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 111
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a1a79a401ee6d0800000000000000
+      internalID: -2959409992578259927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 111
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a07e3c28be57db0800000000000000
+      internalID: -4794667281401050583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb78b76fcc41f450800000000000000
+      internalID: 6120757822255299548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b8a4ce4f0d0eaa0800000000000000
+      internalID: -6133672942123709656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 111
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1d16df74d874b0800000000000000
+      internalID: -5442366504159076391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016b8b70079b5e50800000000000000
+      internalID: 6799194090774421762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f638aa3f2304740800000000000000
+      internalID: 5134159597321547657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997fa31affbd13e20800000000000000
+      internalID: 3328683490571646873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbac199b290a8cb0800000000000000
+      internalID: -4861062764935992387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 71
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3fa45140e0dfd0800000000000000
+      internalID: -2319107236897538114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ab258d346aeaf0800000000000000
+      internalID: -366370204287260649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023dd22900ebc430800000000000000
+      internalID: 3804380640088764940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd64d81c524307f0800000000000000
+      internalID: -647600958090220100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 71
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae475193acf6eb410800000000000000
+      internalID: 1494755040665367786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b01d15fc59f155b0800000000000000
+      internalID: -5381245902086401867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdab5e745e8a3580800000000000000
+      internalID: -8846602024467583544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72f667ef2604fd0800000000000000
+      internalID: -2359777359693928478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8a52ad96e17d50800000000000000
+      internalID: 6733416482603699875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 35
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7868d2d0d7fb275f0800000000000000
+      internalID: -760334843259287929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520ee757f0c73490800000000000000
+      internalID: -7766526863812459944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 35
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c45c3ceedd1e7a30800000000000000
+      internalID: 4214839144548685000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cab0d51a98fdf630800000000000000
+      internalID: 3962596587830557383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248b70ba47f703680800000000000000
+      internalID: -8777375534682752958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129835a699a643500800000000000000
+      internalID: 375041876124993825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60a11e231d57200800000000000000
+      internalID: 177277776806151922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f36a957241f05f0800000000000000
+      internalID: -788389250526199931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff03fab5e684f4d0800000000000000
+      internalID: -3101705922109304844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb89cbd2c1aad80800000000000000
+      internalID: -8238741585557668345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0198b7ee2e1f100800000000000000
+      internalID: 140142577327870125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Metal Storm - M-308 Gunner s_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81e9520de03ca470800000000000000
+      internalID: 8407148398898700682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Metal Storm - M-308 Gunner s_0: 249691657582705353
+      NES - Metal Storm - M-308 Gunner s_1: -2736538502968115486
+      NES - Metal Storm - M-308 Gunner s_10: 4517987479700463
+      NES - Metal Storm - M-308 Gunner s_11: -4960039938160743066
+      NES - Metal Storm - M-308 Gunner s_12: -4478858839615904620
+      NES - Metal Storm - M-308 Gunner s_13: 1141442751893529757
+      NES - Metal Storm - M-308 Gunner s_14: -4911948473441913490
+      NES - Metal Storm - M-308 Gunner s_15: -2130299070761757334
+      NES - Metal Storm - M-308 Gunner s_16: 9151201517724879842
+      NES - Metal Storm - M-308 Gunner s_17: 1892099185784596926
+      NES - Metal Storm - M-308 Gunner s_18: 3971972592920716215
+      NES - Metal Storm - M-308 Gunner s_19: 3264566779069870635
+      NES - Metal Storm - M-308 Gunner s_2: 4459699345272520471
+      NES - Metal Storm - M-308 Gunner s_20: -6421222074181397710
+      NES - Metal Storm - M-308 Gunner s_21: 8445946957026986082
+      NES - Metal Storm - M-308 Gunner s_22: -4967450837773646990
+      NES - Metal Storm - M-308 Gunner s_23: -6817032725231239855
+      NES - Metal Storm - M-308 Gunner s_24: -6151508167339489960
+      NES - Metal Storm - M-308 Gunner s_25: 2994463387411970448
+      NES - Metal Storm - M-308 Gunner s_26: -7339971234972316863
+      NES - Metal Storm - M-308 Gunner s_27: 2666093924195291681
+      NES - Metal Storm - M-308 Gunner s_28: 2418261129329297197
+      NES - Metal Storm - M-308 Gunner s_29: -8844211156144484315
+      NES - Metal Storm - M-308 Gunner s_3: 4006991299094153430
+      NES - Metal Storm - M-308 Gunner s_30: -8707633092512961586
+      NES - Metal Storm - M-308 Gunner s_31: -3631136191323343354
+      NES - Metal Storm - M-308 Gunner s_32: -2959409992578259927
+      NES - Metal Storm - M-308 Gunner s_33: -4794667281401050583
+      NES - Metal Storm - M-308 Gunner s_34: 6120757822255299548
+      NES - Metal Storm - M-308 Gunner s_35: -6133672942123709656
+      NES - Metal Storm - M-308 Gunner s_36: -5442366504159076391
+      NES - Metal Storm - M-308 Gunner s_37: 6799194090774421762
+      NES - Metal Storm - M-308 Gunner s_38: 5134159597321547657
+      NES - Metal Storm - M-308 Gunner s_39: 3328683490571646873
+      NES - Metal Storm - M-308 Gunner s_4: 3145652535868238274
+      NES - Metal Storm - M-308 Gunner s_40: -4861062764935992387
+      NES - Metal Storm - M-308 Gunner s_41: -2319107236897538114
+      NES - Metal Storm - M-308 Gunner s_42: -366370204287260649
+      NES - Metal Storm - M-308 Gunner s_43: 3804380640088764940
+      NES - Metal Storm - M-308 Gunner s_44: -647600958090220100
+      NES - Metal Storm - M-308 Gunner s_45: 1494755040665367786
+      NES - Metal Storm - M-308 Gunner s_46: -5381245902086401867
+      NES - Metal Storm - M-308 Gunner s_47: -8846602024467583544
+      NES - Metal Storm - M-308 Gunner s_48: -2359777359693928478
+      NES - Metal Storm - M-308 Gunner s_49: 6733416482603699875
+      NES - Metal Storm - M-308 Gunner s_5: 4004260285171393506
+      NES - Metal Storm - M-308 Gunner s_50: -760334843259287929
+      NES - Metal Storm - M-308 Gunner s_51: -7766526863812459944
+      NES - Metal Storm - M-308 Gunner s_52: 4214839144548685000
+      NES - Metal Storm - M-308 Gunner s_53: 3962596587830557383
+      NES - Metal Storm - M-308 Gunner s_54: -8777375534682752958
+      NES - Metal Storm - M-308 Gunner s_55: 375041876124993825
+      NES - Metal Storm - M-308 Gunner s_56: 177277776806151922
+      NES - Metal Storm - M-308 Gunner s_57: -788389250526199931
+      NES - Metal Storm - M-308 Gunner s_58: -3101705922109304844
+      NES - Metal Storm - M-308 Gunner s_59: -8238741585557668345
+      NES - Metal Storm - M-308 Gunner s_6: -1257072122278491458
+      NES - Metal Storm - M-308 Gunner s_60: 140142577327870125
+      NES - Metal Storm - M-308 Gunner s_61: 8407148398898700682
+      NES - Metal Storm - M-308 Gunner s_7: -8924685838336400485
+      NES - Metal Storm - M-308 Gunner s_8: 4849588424787615270
+      NES - Metal Storm - M-308 Gunner s_9: -7683281922311882715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
